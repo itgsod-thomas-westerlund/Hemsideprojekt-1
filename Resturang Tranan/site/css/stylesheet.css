@@ -7,14 +7,23 @@
 
 }
 
-#logo {
-    float: inherit;
-    background-color:white;
-    width: 100px;
-    height: 100px;
+#korean {
+    color: white;
+    float: left;
     margin-left: auto;
+
+}
+
+#logo {
     margin-right: auto;
-    position: relative; top: 50px;
+    margin-left: auto;
+
+}
+
+#china {
+    color: white;
+    float: right;
+    margin-right: auto;
 }
 
 #menu {
