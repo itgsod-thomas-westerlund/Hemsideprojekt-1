@@ -78,7 +78,25 @@ body {
 #Matbild {
     Margin-top: 20px;
     margin-left: 1%;
+    width: 600px;
 }
-#Öppettider {
-    background-color: black;
+#Oppettidertable {
+margin-left: 780px;
+    height: 400px;
+    margin-top: -450px;
+    border-color: red;
+    border-style: solid;
+    border-width: 10px;
+
+
+
   }
+#Oppettidertext {
+    font-size: 20px;
+    float: right;
+    margin-top: 15px;
+    margin-right: 220px;
+    color:red;
+
+
+}
