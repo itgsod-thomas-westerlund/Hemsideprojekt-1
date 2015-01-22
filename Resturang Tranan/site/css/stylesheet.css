@@ -101,3 +101,8 @@ body {
     width: 530px;
     margin-left: 1%;
 }
+
+#karta {
+    float: right;
+    position: absolute; left: 20%;
+}
