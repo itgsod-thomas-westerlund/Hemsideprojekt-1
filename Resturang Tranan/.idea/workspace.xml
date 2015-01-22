@@ -25,6 +25,7 @@
     <leaf>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/site/index.html">
@@ -40,6 +41,13 @@
             <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="300">
               <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
 >>>>>>> Stashed changes
+=======
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="705">
+              <caret line="36" column="34" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="34" />
+>>>>>>> FETCH_HEAD
 =======
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site/index.html">
@@ -78,6 +86,7 @@
       </file>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       <file leaf-file-name="stylesheet.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site/css/stylesheet.css">
@@ -93,6 +102,13 @@
             <state vertical-scroll-proportion="0.5392157" vertical-offset="0" max-vertical-offset="612">
               <caret line="77" column="10" selection-start-line="77" selection-start-column="10" selection-end-line="77" selection-end-column="10" />
 >>>>>>> Stashed changes
+=======
+      <file leaf-file-name="stylesheet.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/site/css/stylesheet.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.31862745" vertical-offset="0" max-vertical-offset="612">
+              <caret line="78" column="1" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
+>>>>>>> FETCH_HEAD
 =======
       <file leaf-file-name="stylesheet.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/site/css/stylesheet.css">
@@ -584,6 +600,7 @@
     </entry>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/site/css/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -601,11 +618,21 @@
         <state vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="705">
           <caret line="36" column="34" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="34" />
 >>>>>>> FETCH_HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="705">
+          <caret line="36" column="34" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="34" />
+>>>>>>> FETCH_HEAD
           <folding>
             <element signature="tag#head#0;tag#html#0" expanded="false" />
             <element signature="tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+            <element signature="n#style#0;n#table#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+>>>>>>> FETCH_HEAD
 =======
             <element signature="n#style#0;n#table#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
 >>>>>>> FETCH_HEAD
@@ -624,6 +651,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/site/css/stylesheet.css">
+<<<<<<< HEAD
 <<<<<<< HEAD
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< Updated upstream
@@ -674,6 +702,12 @@
         <state vertical-scroll-proportion="0.31862745" vertical-offset="0" max-vertical-offset="612">
           <caret line="78" column="1" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
           <folding>
+=======
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31862745" vertical-offset="0" max-vertical-offset="612">
+          <caret line="78" column="1" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
+          <folding>
+>>>>>>> FETCH_HEAD
             <element signature="e#5#38#0" expanded="false" />
             <element signature="e#47#135#0" expanded="false" />
             <element signature="e#142#195#0" expanded="false" />
